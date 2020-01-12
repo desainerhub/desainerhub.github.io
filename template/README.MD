@@ -1,0 +1,47 @@
+HTML5 Template
+
+-Aerial
+-Alpha
+-Arcana
+-Astral
+-Big Picture
+-Dimension
+-Directive
+-Dopetrope
+-Editorial
+-Escape Velocity
+-Ethereal
+-Eventually
+-Forty
+-Fractal
+-Future Imperfect
+-Halcyonic
+-Helios
+-Highlights
+-Hyperspace
+-Identity
+-Landed
+-Lens
+-Massively
+-Minimaxing
+-Miniport
+-Multiverse
+-Overflow
+-Parallelism
+-Phantom
+-Photon
+-Prologue
+-Read Only
+-Solid State
+-Spectral
+-Stellar
+-Story
+-Strata
+-Striped
+-Strongly Typed
+-Telephasic
+-Tesselatte
+-Twenty
+-Txt
+-Verty
+-Zerofour
